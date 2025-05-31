@@ -2,8 +2,8 @@
 const accounts = [
   { id: "2023001", name: "홍길동", userId: "biko01", password: "pass1234" },
   { id: "2023002", name: "김유진", userId: "biko02", password: "pw5678" },
-  { id: "2023003", name: "이민수", userId: "biko03", password: "biko7890" }
-  { id: "2023004", name: "꽃님이", userId: "biko04", password: "biko7891" }
+  { id: "2023003", name: "이민수", userId: "biko03", password: "biko7890" },
+  { id: "2023004", name: "꽃님이", userId: "biko04", password: "biko7891" },
   { id: "2023005", name: "꽃순이", userId: "biko05", password: "biko7893" }
 ];
 
